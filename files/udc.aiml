@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>What is your name</pattern>
+    <template>my name is asta.</template>
+  </category>
+</aiml>
